@@ -1,4 +1,4 @@
-name: 30-seconds-sync
+name: sync-30-seconds-repository
 on:
   schedule:
     - cron: "0 8 */7 * *"

@@ -1,4 +1,4 @@
-name: trekhleb-sync
+name: sync-trekhleb-repository
 on:
   schedule:
     - cron: "0 8 */7 * *"
