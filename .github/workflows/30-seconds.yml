@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync 30-seconds-JavaScript
+      - name: sync 30-seconds-repository
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
